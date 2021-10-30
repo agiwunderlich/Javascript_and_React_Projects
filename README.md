@@ -24,7 +24,6 @@ Movie comparison application based on awards, imdb ratings, boxoffice etc., </br
 
 Colors can be pinned on the palette with HEX, RGB or RGBA codes. </br>
 Saturation level can be changed, a selected emoji can be used to save the finished palette. </br>
-Palettes can be deleted from the main board. </br>
 
 
 <img width="300" alt="reactcolor" src="https://user-images.githubusercontent.com/35004717/139526380-33ba8fa9-86cf-401a-ae53-681ed2da32f7.png">
