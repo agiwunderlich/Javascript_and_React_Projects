@@ -1,6 +1,7 @@
 # Projects I've created in JS or with React:
 
-<a href="https://github.com/agiwunderlich/YelpCamp">YelpCamp</a>
+<a href="https://github.com/agiwunderlich/YelpCamp">YelpCamp</a></br>
+// Javascript
 
 A campground review page with dynamically displaying geographic data, </br>
 user Authentication and Authorization and image upload from client side. </br>
@@ -10,7 +11,8 @@ user Authentication and Authorization and image upload from client side. </br>
 ------------------------------------------
 
 
-<a href="https://github.com/agiwunderlich/Movie_Comparison_App">Movie Fight App</a>
+<a href="https://github.com/agiwunderlich/Movie_Comparison_App">Movie Fight App</a></br>
+// Javascript
 
 Movie comparison application based on awards, imdb ratings, boxoffice etc., </br> with a reuseable autocomplete search function and widget. 
 
@@ -20,7 +22,8 @@ Movie comparison application based on awards, imdb ratings, boxoffice etc., </br
 
 ------------------------------------------
 
-<a href="https://github.com/agiwunderlich/React_Color_App">Create Color Palette App</a>
+<a href="https://github.com/agiwunderlich/React_Color_App">Create Color Palette App</a></br>
+// React
 
 Colors can be pinned on the palette with HEX, RGB or RGBA codes. </br>
 Saturation level can be changed, a selected emoji can be used to save the finished palette. </br>
@@ -31,6 +34,7 @@ Saturation level can be changed, a selected emoji can be used to save the finish
 
 ------------------------------------------
 
-<a href="https://github.com/agiwunderlich/Secret_Message_App">Secret Message App</a>
+<a href="https://github.com/agiwunderlich/Secret_Message_App">Secret Message App</a></br>
+// Javascript
 
 This application allows you to send an encrypted message to another user using Base64 Encoding.
